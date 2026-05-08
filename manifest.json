@@ -38,7 +38,7 @@
       "purpose": "any"
     },
     {
-      "src": "icons/https://marcomedhategitto.github.io/egora_manifest/icons/icon-512x512.png",
+      "src": "https://marcomedhategitto.github.io/egora_manifest/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
@@ -50,7 +50,7 @@
       "purpose": "maskable"
     },
     {
-      "src": "icons/https://marcomedhategitto.github.io/egora_manifest/icons/icon-512x512-maskable.png",
+      "src": "https://marcomedhategitto.github.io/egora_manifest/icons/icon-512x512-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
