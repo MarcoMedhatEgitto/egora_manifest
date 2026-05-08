@@ -16,20 +16,6 @@
     "productivity",
     "utilities"
   ],
-  "screenshots": [
-    {
-      "src": "screenshots/screenshot-narrow.png",
-      "sizes": "540x720",
-      "type": "image/png",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "screenshots/screenshot-wide.png",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "form_factor": "wide"
-    }
-  ],
   "icons": [
     {
       "src": "https://marcomedhategitto.github.io/egora_manifest/icons/icon-192x192.png",
